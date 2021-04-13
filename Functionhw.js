@@ -32,7 +32,7 @@ function multiplyFour(e,f){
 }
 multiplyFour(2,4)
 multiplyFour(25,50)
-function divideTwo(){
+function divideTwo(g,h){
   answer = g/h;
   console.log (answer);   
 }
